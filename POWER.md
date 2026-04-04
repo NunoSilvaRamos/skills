@@ -1,4 +1,3 @@
----
 name: "react-best-practices"
 displayName: "React & Next.js Best Practices"
 description: "Comprehensive React, Next.js, and React Native performance optimization guidelines from Vercel Engineering. Covers async patterns, bundle optimization, server/client performance, re-render optimization, composition patterns, animations, and web design best practices."
